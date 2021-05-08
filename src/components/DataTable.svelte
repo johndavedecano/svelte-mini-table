@@ -141,7 +141,7 @@
   </table>
 </div>
 
-<style>
+<style scoped>
   .wrapper {
     position: relative;
     margin: auto;
