@@ -13,7 +13,12 @@ A simple data table implementation on svelte.js.
 
 ## Installation
 
-
+```bash
+$ git clone git@github.com:johndavedecano/svelte-mini-table.git
+$ cd svelte-mini-table
+$ yarn
+$ yarn dev
+```
 
 ## Sample
 
