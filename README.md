@@ -9,6 +9,8 @@ A simple data table implementation on svelte.js.
 - ... and more
 
 
+![My Image](https://raw.github.com/johndavedecano/svelte-mini-table/master/screenshot.png)
+
 ## Installation
 
 
